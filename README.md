@@ -259,7 +259,7 @@ plt.savefig(f"{PLOTS_DIR}/ticket_type_distribution.png", dpi=200)
 plt.show()
 ```
 
-![Ticket Type Distribution](plots/ticket_type_distribution.png)
+![Ticket Type Distribution](https://github.com/Kartik15281/eda-customer-ticket-trends-prediction-python/blob/d27818dd1a9e2cd5320d42ea52b646f46ff3738c/ticket_type_distribution.png)
 
 ### 12) Priority Level Distribution
 ```python
