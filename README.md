@@ -115,7 +115,7 @@ plt.savefig(f"{PLOTS_DIR}/satisfaction_distribution.png", dpi=200)
 plt.show()
 ```
 
-![Satisfaction Distribution](plots/satisfaction_distribution.png)
+![Satisfaction Distribution](https://github.com/Kartik15281/eda-customer-ticket-trends-prediction-python/blob/f7fc311b8738c01acc045d6434b953ffa72ede22/satisfaction_distribution.png)
 
 ### 4) Ticket Status Distribution
 ```python
