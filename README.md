@@ -297,7 +297,7 @@ plt.savefig(f"{PLOTS_DIR}/tickets_by_age_group.png", dpi=200)
 plt.show()
 ```
 
-![Tickets by Age Group](plots/tickets_by_age_group.png)
+![Tickets by Age Group](https://github.com/Kartik15281/eda-customer-ticket-trends-prediction-python/blob/aa45823ef93774be83393094d8cfd6a761c5af51/tickets_by_age_group.png)
 
 ### 14) Age Distribution Faceted by Ticket Type
 ```python
