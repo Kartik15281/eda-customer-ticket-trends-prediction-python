@@ -243,7 +243,7 @@ plt.savefig(f"{PLOTS_DIR}/top_items_by_gender.png", dpi=200)
 plt.show()
 ```
 
-![Top Items by Gender](https://github.com/Kartik15281/eda-customer-ticket-trends-prediction-python/blob/22ddf80414ffafa57158c78e3e9de1ff28e603b3/top_items_by_males.png)
+![Top Items by Gender]("https://github.com/Kartik15281/eda-customer-ticket-trends-prediction-python/blob/22ddf80414ffafa57158c78e3e9de1ff28e603b3/top_items_by_males.png","https://github.com/Kartik15281/eda-customer-ticket-trends-prediction-python/blob/290102a6fd3515ded5c26bb2d7eec162ab8e763e/top_items_by_females.png", "" )
 
 ### 11) Ticket Type Distribution
 ```python
