@@ -243,7 +243,7 @@ plt.savefig(f"{PLOTS_DIR}/top_items_by_gender.png", dpi=200)
 plt.show()
 ```
 
-![Top Items by Gender](plots/top_items_by_gender.png)
+![Top Items by Gender](https://github.com/Kartik15281/eda-customer-ticket-trends-prediction-python/blob/22ddf80414ffafa57158c78e3e9de1ff28e603b3/top_items_by_males.png)
 
 ### 11) Ticket Type Distribution
 ```python
