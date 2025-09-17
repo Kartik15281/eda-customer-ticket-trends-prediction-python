@@ -275,7 +275,7 @@ plt.savefig(f"{PLOTS_DIR}/priority_distribution.png", dpi=200)
 plt.show()
 ```
 
-![Priority Distribution](plots/priority_distribution.png)
+![Priority Distribution](https://github.com/Kartik15281/eda-customer-ticket-trends-prediction-python/blob/fb8cfbcd59e99c2a7153a3bb1f29892c00e8d76b/priority_distribution.png)
 
 ### 13) Tickets by Age Group
 ```python
