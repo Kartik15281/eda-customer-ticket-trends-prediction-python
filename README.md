@@ -161,7 +161,7 @@ plt.savefig(f"{PLOTS_DIR}/gender_distribution.png", dpi=200)
 plt.show()
 ```
 
-![Gender Distribution](plots/gender_distribution.png)
+![Gender Distribution](https://github.com/Kartik15281/eda-customer-ticket-trends-prediction-python/blob/a56075e3fbcebbe46ede36cc320c9e00eef582c6/gender_distribution.png)
 
 ### 7) Ticket Channel Distribution
 ```python
