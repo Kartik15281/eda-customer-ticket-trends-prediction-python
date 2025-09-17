@@ -178,7 +178,7 @@ plt.savefig(f"{PLOTS_DIR}/channel_distribution.png", dpi=200)
 plt.show()
 ```
 
-![Channel Distribution](plots/channel_distribution.png)
+![Channel Distribution](https://github.com/Kartik15281/eda-customer-ticket-trends-prediction-python/blob/fb00180aa96501af4e77c8ce0e1a58426c55db9e/channel_distribution.png)
 
 ### 8) Average Satisfaction by Gender
 ```python
