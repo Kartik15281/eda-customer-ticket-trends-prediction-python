@@ -85,7 +85,7 @@ plt.savefig(f"{PLOTS_DIR}/ticket_trends.png", dpi=200)
 plt.show()
 ```
 
-![Ticket Trends](plots/ticket_trends.png)
+![Ticket Trends](https://github.com/Kartik15281/eda-customer-ticket-trends-prediction-python/blob/02eca506412f9de380592e7c61592e1b7b03d150/ticket-trends-over-time.png)
 
 ### 2) Top 10 Common Issues (Ticket Subject)
 ```python
