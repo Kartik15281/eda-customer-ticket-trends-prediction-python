@@ -311,7 +311,7 @@ plt.savefig(f"{PLOTS_DIR}/facet_ticket_type_by_age.png", dpi=200, bbox_inches='t
 plt.show()
 ```
 
-![Facet Age by Ticket Type](plots/facet_ticket_type_by_age.png)
+![Facet Age by Ticket Type](https://github.com/Kartik15281/eda-customer-ticket-trends-prediction-python/blob/b47e255746a13dcbbba419ee82fe564a09f59859/facet_ticket_type_by_age.png)
 
 ## Baseline ML: Predict Satisfaction Rating
 
