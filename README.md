@@ -211,7 +211,7 @@ plt.savefig(f"{PLOTS_DIR}/top_products.png", dpi=200)
 plt.show()
 ```
 
-![Top Products](plots/top_products.png)
+![Top Products](https://github.com/Kartik15281/eda-customer-ticket-trends-prediction-python/blob/1bf3d4a9757a9887d04866e2a542c30572770ae3/top_products.png)
 
 ### 10) Top Items Purchased by Gender (3 Subplots)
 ```python
