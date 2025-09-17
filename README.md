@@ -145,7 +145,7 @@ plt.savefig(f"{PLOTS_DIR}/age_distribution.png", dpi=200)
 plt.show()
 ```
 
-![Age Distribution](plots/age_distribution.png)
+![Age Distribution](https://github.com/Kartik15281/eda-customer-ticket-trends-prediction-python/blob/2ddee5b575fdac31983a8bb241d8cccb334602dd/age_distribution.png)
 
 ### 6) Gender Distribution
 ```python
