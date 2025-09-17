@@ -196,7 +196,7 @@ plt.savefig(f"{PLOTS_DIR}/avg_satisfaction_by_gender.png", dpi=200)
 plt.show()
 ```
 
-![Avg Sat by Gender](plots/avg_satisfaction_by_gender.png)
+![Avg Sat by Gender](https://github.com/Kartik15281/eda-customer-ticket-trends-prediction-python/blob/f5446eee24613e65a2e041477c9725bcffe11d6f/avg_satisfaction_by_gender.png)
 
 ### 9) Top 10 Products Purchased
 ```python
