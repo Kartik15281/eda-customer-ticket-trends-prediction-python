@@ -131,7 +131,7 @@ plt.savefig(f"{PLOTS_DIR}/ticket_status_distribution.png", dpi=200)
 plt.show()
 ```
 
-![Ticket Status](plots/ticket_status_distribution.png)
+![Ticket Status](https://github.com/Kartik15281/eda-customer-ticket-trends-prediction-python/blob/9d4ff65d34af8b5f3710992449976b39b0d16e4b/ticket_status_distribution.png)
 
 ### 5) Age Distribution
 ```python
